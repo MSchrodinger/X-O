@@ -1,1 +1,1 @@
-# X-O-
+# X-O GUI game
